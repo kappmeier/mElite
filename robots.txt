@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://page.math.tu-berlin.de/~kappmeie/melite/sitemap.xml
+

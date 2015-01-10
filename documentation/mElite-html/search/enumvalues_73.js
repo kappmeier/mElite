@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['sight',['sight',['../_structures_8h.html#a994fbfe7a661bd7fb2f9be2f4c2c8c49a6bda06bf38480c9ed7ccb5cb263da5ee',1,'Structures.h']]],
+  ['star',['star',['../_structures_8h.html#a994fbfe7a661bd7fb2f9be2f4c2c8c49ab24db2b1c3d44c4fda96688c7be60bbd',1,'Structures.h']]],
+  ['star_5f001',['star_001',['../_structures_8h.html#adabd3ab855c1c1904d6f1b4fcd852deda288d0296747c68d5bded720fcef612e0',1,'Structures.h']]],
+  ['star_5f002',['star_002',['../_structures_8h.html#adabd3ab855c1c1904d6f1b4fcd852deda36dd0a3c601326e8a75b19be150fc005',1,'Structures.h']]],
+  ['star_5f003',['star_003',['../_structures_8h.html#adabd3ab855c1c1904d6f1b4fcd852deda451c97e54489d6dc305e8adbb02067b7',1,'Structures.h']]],
+  ['star_5f004',['star_004',['../_structures_8h.html#adabd3ab855c1c1904d6f1b4fcd852dedaae9ac9fb659cf899ec679bc44d5add95',1,'Structures.h']]],
+  ['star_5f005',['star_005',['../_structures_8h.html#adabd3ab855c1c1904d6f1b4fcd852deda73123529b7c262dda8d41a5d3384d56f',1,'Structures.h']]],
+  ['star_5f006',['star_006',['../_structures_8h.html#adabd3ab855c1c1904d6f1b4fcd852deda37bb5787f3c02dda1ebbfba34a701751',1,'Structures.h']]],
+  ['star_5f010',['star_010',['../_structures_8h.html#adabd3ab855c1c1904d6f1b4fcd852deda5d365e925e7e0463bc235ca7529d96d7',1,'Structures.h']]],
+  ['star_5f011',['star_011',['../_structures_8h.html#adabd3ab855c1c1904d6f1b4fcd852deda68dbff96f17891925cdbc940a5e9bf07',1,'Structures.h']]],
+  ['star_5f012',['star_012',['../_structures_8h.html#adabd3ab855c1c1904d6f1b4fcd852deda1060f49709ad7fc472a3e79d7057c65c',1,'Structures.h']]],
+  ['star_5f013',['star_013',['../_structures_8h.html#adabd3ab855c1c1904d6f1b4fcd852deda31c06cb584ca4ef71ae4169fcb9ea002',1,'Structures.h']]],
+  ['star_5f014',['star_014',['../_structures_8h.html#adabd3ab855c1c1904d6f1b4fcd852deda7d91b2fb42547b83c58ad75cc58e8e24',1,'Structures.h']]],
+  ['star_5fsun',['star_sun',['../_structures_8h.html#adabd3ab855c1c1904d6f1b4fcd852dedaa3bb0421666563f10bde445ed8d1f49f',1,'Structures.h']]],
+  ['sun_5fcorona',['sun_corona',['../_structures_8h.html#adabd3ab855c1c1904d6f1b4fcd852deda0e38d78c4d0259afc0e1d740f178aa22',1,'Structures.h']]],
+  ['systeminfo',['systemInfo',['../_structures_8h.html#a3d5776bab98402b03be09156bacf4f68a1ef4597346c8a3f7ba697acb0e67aafa',1,'Structures.h']]]
+];

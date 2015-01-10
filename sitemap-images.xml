@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+ <url>
+   <loc>http://page.math.tu-berlin.de/~kappmeie/melite/index.html</loc>                      
+<image:image>
+  <image:loc>http://page.math.tu-berlin.de/~kappmeie/melite/pictures/coriolis.jpg</image:loc>
+  <image:caption>The Coriolis space station and its entrance.</image:caption>
+ </image:image>
+ <image:image>
+  <image:loc>http://page.math.tu-berlin.de/~kappmeie/melite/pictures/localscreen.png</image:loc>
+  <image:caption>The local screen showing nearby systems.</image:caption>
+ </image:image>
+ <image:image>
+  <image:loc>http://page.math.tu-berlin.de/~kappmeie/melite/pictures/marketscreen.jpg</image:loc>
+  <image:caption>The market screen showing different trading options.</image:caption>
+ </image:image>
+ <image:image>
+  <image:loc>http://page.math.tu-berlin.de/~kappmeie/melite/pictures/melite-class-diagram.jpg</image:loc>
+  <image:caption>The diagram shows the connections between the objects in the game world.</image:caption>
+ </image:image>
+ <image:image>
+  <image:loc>http://page.math.tu-berlin.de/~kappmeie/melite/pictures/melite_img_allpoliceshooting.jpg</image:loc>
+  <image:caption>After the Coriolus station was attacked, all Police ships attack united.</image:caption>
+ </image:image>
+ <image:image>
+  <image:loc>http://page.math.tu-berlin.de/~kappmeie/melite/pictures/melite_img_coriolis.jpg</image:loc>
+  <image:caption>The player is heading to the Coriolis station.</image:caption>
+ </image:image>
+ <image:image>
+  <image:loc>http://page.math.tu-berlin.de/~kappmeie/melite/pictures/melite_img_flyingincoriolis.jpg</image:loc>
+  <image:caption>An attempt to land in the Coriolis station.</image:caption>
+ </image:image>
+ <image:image>
+  <image:loc>http://page.math.tu-berlin.de/~kappmeie/melite/pictures/melite_img_infoview.jpg</image:loc>
+  <image:caption>Another solar system with a red star.</image:caption>
+ </image:image>
+ <image:image>
+  <image:loc>http://page.math.tu-berlin.de/~kappmeie/melite/pictures/melite_img_missile.jpg</image:loc>
+  <image:caption>A Pirate is attacked using two missiles.</image:caption>
+ </image:image>
+ <image:image>
+  <image:loc>http://page.math.tu-berlin.de/~kappmeie/melite/pictures/melite_img_pirateattacks.jpg</image:loc>
+  <image:caption>A Pirate is attacking! The shield is already half down.</image:caption>
+  </image:image>
+ <image:image>
+  <image:loc>http://page.math.tu-berlin.de/~kappmeie/melite/pictures/melite_img_thargoidpirate.jpg</image:loc>
+  <image:caption>A dangerous situation. A Thargoid in front and a Pirate behind</image:caption>
+ </image:image>
+ <image:image>
+  <image:loc>http://page.math.tu-berlin.de/~kappmeie/melite/pictures/merchant.jpg</image:loc>
+  <image:caption>Another Merchant making its way through the solar system.</image:caption>
+ </image:image>
+ <image:image>
+  <image:loc>http://page.math.tu-berlin.de/~kappmeie/melite/pictures/pirate.jpg</image:loc>
+  <image:caption>A Pirate is attacking but hit by the ships laser.</image:caption>
+ </image:image>
+ <image:image>
+  <image:loc>http://page.math.tu-berlin.de/~kappmeie/melite/pictures/police.jpg</image:loc>
+  <image:caption>A friendly Police ship. Do not attack!</image:caption>
+ </image:image>
+ <image:image>
+  <image:loc>http://page.math.tu-berlin.de/~kappmeie/melite/pictures/start.jpg</image:loc>
+  <image:caption>The view when the game starts.</image:caption>
+ </image:image>
+ <image:image>
+  <image:loc>http://page.math.tu-berlin.de/~kappmeie/melite/pictures/systeminfo.png</image:loc>
+  <image:caption>Info screen of a system.</image:caption>
+ </image:image>
+ <image:image>
+  <image:loc>http://page.math.tu-berlin.de/~kappmeie/melite/pictures/thargoid.jpg</image:loc>
+  <image:caption>A Thargoid is trying to crash the player.</image:caption>
+ </image:image>
+ </url> 
+</urlset> 
