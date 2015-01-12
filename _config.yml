@@ -1,3 +1,3 @@
-include: ["documentation/mElite-html/_test.html", "documentation/mElite-html/_star_8h.html", "documentation/_test.html", "_test.html"]
+include: ["documentation/mElite-html/_test.html", "documentation/mElite-html/_star_8h.html", "documentation/_test.html", "_test.html", "_te_st.html"]
 
-exclude: ["documentation/mElite-html/test.html", "documentation/test.html", "test.html"]
+exclude: ["documentation/mElite-html/test.html", "documentation/test.html"]
