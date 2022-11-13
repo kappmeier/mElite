@@ -1,1 +1,14 @@
-Test
+<!DOCTYPE HTML>
+<html lang="en-US">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="refresh" content="0; url=http://github.kappmeier.de/mElite/">
+        <script type="text/javascript">
+            window.location.href = "http://github.kappmeier.de/mElite/"
+        </script>
+        <title>mElite Redirect</title>
+    </head>
+    <body>
+        Automatisce Weiterleitung auf <a href="http://github.kappmeier.de/mElite/">mElite</a>.
+    </body>
+</html>
